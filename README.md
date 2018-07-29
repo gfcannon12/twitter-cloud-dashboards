@@ -10,3 +10,4 @@ Cloud Functions
 Watson Studio
 1. Display the data in various chart forms
 2. Schedule the dashboard to refresh every minute or so
+
