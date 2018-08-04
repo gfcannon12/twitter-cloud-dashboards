@@ -1,8 +1,13 @@
 # Twitter Cloud Dashboards
 
+## Accounts Needed
+1. Twitter Developer Premium (Free)
+2. IBM Cloud Lite (Free)
+
+## Process
 Python Script
 1. Pull data from Twitter API
-2. Store data in database
+2. Store data in database (Db2)
 
 Cloud Functions
 1. Schedule the script to run every minute for new data
