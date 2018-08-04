@@ -1,8 +1,9 @@
 # Twitter Cloud Dashboards
 
 ## Accounts Needed
-- Twitter Developer Premium (Free) https://developer.twitter.com/
-- IBM Cloud Lite (Free) https://console.ng.bluemix.net/dashboard/apps/
+#### Demo created using only free plans
+- Twitter API https://developer.twitter.com/
+- IBM Cloud https://console.ng.bluemix.net/dashboard/apps/
   - Watson Studio https://dataplatform.cloud.ibm.com/
   - IBM Cloud Functions https://console.bluemix.net/openwhisk/
   - Db2 on Cloud https://console.bluemix.net/catalog/services/db2

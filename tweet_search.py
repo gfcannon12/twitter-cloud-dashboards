@@ -7,12 +7,11 @@
 # @return The output of this action, which must be a JSON object.
 #
 #
-import os
 import requests
-import json
 import numpy as np
-import random
 import ibm_db
+import json
+import random
 import datetime
 
 def main(dict):
